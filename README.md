@@ -11,6 +11,7 @@ Extracts structured data using CSS selectors
 Easily extendable to include more fields or export formats (JSON, CSV, etc.)
 
 🔧 Tech Stack
+
 Python
 
 Scrapy
